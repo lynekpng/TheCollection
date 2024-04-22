@@ -7,7 +7,7 @@ const collection = [
         genre: "Hypertechno",
         releaseYear: 2024,
         YoutubeLink: "https://youtu.be/MEKmZz28bWk?si=GyRSEp-2j7ygQuVj",
-         Image: "/assets/artworks-2ofkIHR920n9cymr-NBTyyg-t500x500.jpg"
+         Image: "assets/artworks-2ofkIHR920n9cymr-NBTyyg-t500x500.jpg"
     }, 
     {   title: "Kompany",
         album: "Kompany",
@@ -16,7 +16,7 @@ const collection = [
         genre: ["R&B", " Hip Hop"],
         releaseYear: 2017,
         YoutubeLink: "https://youtu.be/01qMS28piNk?si=JfnpL75Qtx57cDy9",
-           Image : "/assets/R-15663490-1595491116-3691.jpg"
+           Image : "assets/R-15663490-1595491116-3691.jpg"
     },
     {   title: "No L's",
         album: "Luv 4 Rent",
@@ -25,7 +25,7 @@ const collection = [
         genre: "R&B",
         releaseYear: 2022,
         YoutubeLink: "https://youtu.be/DlgDd_dBQV4?si=O55Qa0qi8PFgseJQ",
-          Image : "/assets/artworks-G2XNyGOVYwgI-0-t500x500.jpg"
+          Image : "assets/artworks-G2XNyGOVYwgI-0-t500x500.jpg"
     },
     {   title: "Little Things x Gypsy Woman - L BEATS MASHUP",
         album: "Little Things x Gypsy Woman - L BEATS MASHUP",
